@@ -1,6 +1,5 @@
 <section id="documenter_cover">
-	<h1>Real Estate</h1>
-	<h2>Real estate agency portal system</h2>
+	<h1>Real estate agency portal system</h1>
 	<div id="documenter_buttons">		
 	</div>
     <p>Are you searching for real estate management system project in PHP?</p>	
